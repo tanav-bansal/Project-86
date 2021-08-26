@@ -1,0 +1,17 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   background-color: rgb(40, 187, 240);
+   border:5px ridge violet;
+   
+}
+.btn-default
+{
+   background-color: purple;
+}
+
